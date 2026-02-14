@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial,  sans-serif;
+}
+
+#about{
+    background-color: #1f1f2e;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.about-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
